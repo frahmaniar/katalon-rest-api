@@ -21,3 +21,5 @@ WS.sendRequest(findTestObject('get'))
 
 WS.sendRequest(findTestObject('post'))
 
+WS.comment('untuk a')
+
